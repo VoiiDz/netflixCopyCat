@@ -8,7 +8,7 @@ function App() {
       {/* NavBar */}
 
       {/* Banner */}
-
+      <Banner />
       {/* Rows */}
       <Row 
         title="NETFLIX ORIGINALS" 
