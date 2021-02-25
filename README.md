@@ -2,7 +2,7 @@
 A mini FrontEnd clone of the big webApp Netflix
 
 ## Languages
-Netflix CopyCat is built using HTML CSS and ReactJS
+Netflix CopyCat is built using HTML CSS ReactJS
 and the TMDB API
 
 ## Deployment
